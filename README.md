@@ -2,4 +2,4 @@
 
 ## Page Preview
 
-- [Nice_Gadgets Page](https://andriyzhabynets.github.io/react-Gadget-shop/)
+- [Nice_Gadgets Page](https://fe-aug22-team-harold.github.io/nice_gadgets_FE/)
