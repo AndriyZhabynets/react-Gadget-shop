@@ -2,4 +2,4 @@
 
 ## Page Preview
 
-- [FRONT-END DEPLOYED PAGE](https://fe-aug22-team-harold.github.io/nice_gadgets_FE/)
+- [Nice_Gadgets Page](https://andriyzhabynets.github.io/react-Gadget-shop/)
